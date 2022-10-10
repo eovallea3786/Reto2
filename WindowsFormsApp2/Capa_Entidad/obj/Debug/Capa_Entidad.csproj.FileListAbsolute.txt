@@ -1,0 +1,6 @@
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Entidad\obj\Debug\Capa_Entidad.pdb

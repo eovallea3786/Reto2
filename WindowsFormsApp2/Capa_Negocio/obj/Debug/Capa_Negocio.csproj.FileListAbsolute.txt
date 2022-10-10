@@ -1,0 +1,11 @@
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\distr\source\repos\WindowsFormsApp2\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
